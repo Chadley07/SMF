@@ -1,6 +1,6 @@
 # SMF
-The SMF repositorie
-THis is a framework for moders NOT a standolaone game
+The SMF repository
+This is a framework for moders NOT a standalone game
 this mod adds things like Panorama.                 
 licence:
 
