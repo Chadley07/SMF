@@ -1,7 +1,7 @@
 # SMF
 The SMF repositorie
 THis is a framework for moders NOT a standolaone game
-this mod adds things like Panorama
+this mod adds things like Panorama.
 licence:
 
                SOURCE 1 SDK LICENSE
